@@ -1,5 +1,5 @@
+Ubuntu 说明：下载完成后，把go.sh与v2ray-linux-64.zip放在同一个文件夹，在终端下执行：sudo bash go.sh --local ./v2ray-linux-64.zip
 # Project V
-
 [![Build Status][1]][2] [![codecov.io][3]][4] [![GoDoc][5]][6] [![codebeat][7]][8] [![Downloads][9]][10]
 
 [1]: https://dev.azure.com/v2ray/core/_apis/build/status/v2ray.core "Build Status badge"
